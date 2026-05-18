@@ -3,13 +3,13 @@
 ## Prérequis
 Python3.12
 
-### Installation
+## Installation
 
 ```bash
 # Cloner le projet
 git clone https://github.com/aymlpz92/flask-demo
 
-# Créer l'encironnement virtuel
+# Créer l'environnement virtuel
 python -m venv .venv
 source .venv/Scripts/activate
 
